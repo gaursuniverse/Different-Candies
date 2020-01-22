@@ -1,2 +1,10 @@
 # Different-Candies
-Click on the above link to get the solution
+#
+#
+# Sample Input 0:
+# 1
+# abc
+#
+# 
+# Sample Output 0:
+# 3
